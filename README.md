@@ -1,2 +1,0 @@
-# Event-Group
-Group work
